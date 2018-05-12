@@ -1,0 +1,33 @@
+_repo: Parallel-PathsA-Study-in-Biology-Ethics-and-Art_45971
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45971-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Rolleston, T. W. (Thomas William)
+    aliases:
+    - Rolleston, T.W.
+    - Rolleston, Thomas William Hazen
+    - Rolleston, Thomas William
+    birthdate: 1857
+    deathdate: 1920
+    gutenberg_agent_id: '5663'
+    url: http://www.gutenberg.org/2009/agents/5663
+    wikipedia: http://en.wikipedia.org/wiki/T._W._Rolleston
+description: ''
+gutenberg_issued: '2014-06-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45971'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'Q'
+- !lcsh 'Art'
+- !lcsh 'Ethics'
+- !lcsh 'Science -- Philosophy'
+title: 'Parallel Paths: A Study in Biology, Ethics, and Art'
+url: http://www.gutenberg.org/ebooks/45971
